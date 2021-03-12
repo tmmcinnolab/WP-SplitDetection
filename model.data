@@ -1,0 +1,6 @@
+classes = 1 
+train  = model_train.txt 
+valid  = model_valid.txt 
+names = model.names 
+backup = backup
+
